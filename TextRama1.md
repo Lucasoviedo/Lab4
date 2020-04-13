@@ -1,2 +1,1 @@
-Un Pull Request es la accion de validar un codigo que se ve al mergear una rama a otra. Factores como Builds, asignacion de codigo, a tareas, validaciones manuales por parte del equipo, etc.
-
+Una Pull Request es la acción de validar un código que se va a mergear de una rama a otra. En este proceso de validación pueden entrar los factores que queramos: Builds (validaciones automáticas), asignación de código a tareas, validaciones manuales por parte del equipo, despliegues, etc.
